@@ -11,7 +11,7 @@ If any of the owners of the content in this package want thier content removed, 
 
 # Current Content
 ---
-Number of Symbols: 14
+Number of Symbols: 14 <br />
 Number of Guides: 
 
 ### IC Symbols:
