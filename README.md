@@ -23,7 +23,7 @@ Number of Documents:  **18**
 | VSC8572           | Ethernet | Dual Port 10/100/1000 Ethernet PHY    | Microsemi   |
 | CYUSB302          | Memory | USB to SDIO/SD/MMC Controller         | Infineon    |
 | GLS55LD040M       | Memory | PATA NAND Memeory Controller          | Greenliant  |
-| JM20330           | PCIE | USB 3.1 to PCIE Bridge Chip                | JMicron     |
+| JMS583           | PCIE | USB 3.1 to PCIE Bridge Chip                | JMicron     |
 | JM20330           | SATA | Serial ATA Bridge Chip                | JMicron     |
 | JMS539            | SATA | USB 3.0 to SATA II 3.0G Bridge        | JMicron     |
 | TPD6S300          | USB | USB Type-C Port Protection IC         | TI          |
