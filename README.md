@@ -32,7 +32,7 @@ Number of Documents:  **18**
 | USB7056           | 6-Port USB 3.2 Gen 1 Hub              | Microchip   |
 | VSC8572           | Dual Port 10/100/1000 Ethernet PHY    | Microsemi   |
 
-### Guides and Standards
+### Guides and Standards:
 | Interface Type | Type | Number |
 | :--- | :---:| :---: |
 | DisplayPort | Video | 1 |
