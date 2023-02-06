@@ -1,16 +1,13 @@
 # HardwareDesignAllInOne
----
 This is a collection of different hardware design resources I've accumulated. I've also made a bunch of symbols for different IC's for KICAD, but I have also included the excel and csv pinout files if you want to convert them to other platforms.
 
 # Disclaimer
----
 I do not own any of the materials in this package. 
 All of the resources in the package belong to their respective owners. 
 Any of the guides that are in the package are avalible online for free, I have just compiled them.
 If any of the owners of the content in this package want thier content removed, then they can email me using the email attached to my GitHub.
 
 # Current Content
----
 Number of Symbols: **14** <br />
 Number of Documents:  **18**
 
