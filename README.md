@@ -1,5 +1,5 @@
 # HardwareDesignAllInOne
-This is a collection of different hardware design resources I've accumulated. I've also made a bunch of symbols for different IC's for KICAD, but I have also included the excel and csv pinout files if you want to convert them to other platforms.
+This is a collection of different hardware design resources I've accumulated. I've also made a bunch of symbols for different IC's for KICAD, but I have also included the excel and csv pinout files if you want to convert them to other platforms. I made these because I either couldn't find anything about them on either SnapEDA or Ultralibrarian or I just wanted to make them myself.
 
 # Disclaimer
 I do not own any of the materials in this package. 
