@@ -25,7 +25,7 @@ Number of Documents:  **18**
 | QCA8337           | Ethernet | 7 Port Gigabit Ethernet Switch        | Qualcom     |
 | RK3588S           | CPU | 8 Core 64 bit Embedded CPU            | Rockchip    |
 | TPD6S300          | USB | USB Type-C Port Protection IC         | TI          |
-| TPD6S300          | USB | USB Type-C and USB-PD Controller      | TI          |
+| TPS65982          | USB | USB Type-C and USB-PD Controller      | TI          |
 | USB7056           | USB | 6-Port USB 3.2 Gen 1 Hub              | Microchip   |
 | VSC8572           | Ethernet | Dual Port 10/100/1000 Ethernet PHY    | Microsemi   |
 
