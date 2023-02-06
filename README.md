@@ -13,7 +13,7 @@ Number of Guides:
 
 IC Symbols:
 88E1545             - 10/100/1000 Mbps Ethernet Transceiver
-Intel Atom C2000    - 64 bit Server CPU
+\nIntel Atom C2000    - 64 bit Server CPU
 CYUSB302            - USB to SDIO/SD/MMC Controller
 GLS55LD040M         - PATA Interface NAND Flash Memeory Controller
 JM20330             - Serial ATA Bridge Chip
