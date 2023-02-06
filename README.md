@@ -8,7 +8,7 @@ Any of the guides that are in the collection are avalible online for free, I hav
 If any of the owners of the content in this collection want thier content removed, they can email me using the email attached to my GitHub.
 
 # Current Content
-Number of Symbols: **15** <br />
+Number of Symbols: **16** <br />
 Number of Documents:  **18**
 
 ### IC Symbols:
@@ -24,6 +24,7 @@ Number of Documents:  **18**
 | CYUSB302          | Memory | USB to SDIO/SD/MMC Controller         | Infineon    |
 | GLS55LD040M       | Memory | PATA NAND Memeory Controller          | Greenliant  |
 | JMS583           | PCIE | USB 3.1 to PCIE Bridge Chip                | JMicron     |
+| GL830       | SATA | USB 2.0 to SATA Bridge           | Genesys  |
 | JM20330           | SATA | Serial ATA Bridge Chip                | JMicron     |
 | JMS539            | SATA | USB 3.0 to SATA II 3.0G Bridge        | JMicron     |
 | TPD6S300          | USB | USB Type-C Port Protection IC         | TI          |
