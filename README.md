@@ -32,12 +32,12 @@ Number of Documents:  **18**
 ### Guides and Standards:
 | Interface | Type | Number |
 | :--- | :---:| :---: |
-| DisplayPort | Video | 1 |
 | EMMC  | Memory | 1 |
+| SDRAM DDR | Memory | 4 |
+| DisplayPort | Video | 1 |
 | HDMI | Video | 1 |
 | PCIE | General | 1 |
 | SATA | General | 3 |
-| SDRAM DDR | Memory | 4 |
 | SPI | General | 1  |
 | USB | General | 6 |
 
