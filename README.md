@@ -14,9 +14,9 @@ If any of the owners of the content in this package want thier content removed, 
 Number of Symbols: 14
 Number of Guides: 
 
-IC Symbols:
+### IC Symbols:
 | Name              | Description                           |
-| - - - - - - - - - | - - - - - - - - - - - - - - - - - - - |
+| :---------------- | :------------------------------------ |
 | 88E1545           | 10/100/1000 Mbps Ethernet Transceiver |
 | Intel Atom C2000  | 64 bit Server CPU                     |
 | CYUSB302          | USB to SDIO/SD/MMC Controller         |
