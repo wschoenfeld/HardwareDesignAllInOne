@@ -12,17 +12,17 @@ Number of Symbols: 14
 Number of Guides: 
 
 IC Symbols:
-88E1545             - 10/100/1000 Mbps Ethernet Transceiver
-\nIntel Atom C2000    - 64 bit Server CPU
-CYUSB302            - USB to SDIO/SD/MMC Controller
-GLS55LD040M         - PATA Interface NAND Flash Memeory Controller
-JM20330             - Serial ATA Bridge Chip
-JMS539              - USB 3.0 to SATA II 3.0G Bridge
-LAN7430             - PCIe to Gigabit Ethernet Controller
-LAN7800             - USB 3.1 Gen 1 to 10/100/1000 Ethernet Controller
-QCA8337             - 7 Port Gigabit Ethernet Switch
-RK3588S             - 8 Core 64 bit Embedded CPU
-TPD6S300            - USB Type-C Port Protection IC 
-TPS65982            - USB Type-C and USB-PD Controller
-USB7056             - 6-Port USB 3.2 Gen 1 Hub
-VSC8572             - Dual Port 10/100/1000 Ethernet PHY
+-88E1545             - 10/100/1000 Mbps Ethernet Transceiver
+-Intel Atom C2000    - 64 bit Server CPU
+-CYUSB302            - USB to SDIO/SD/MMC Controller
+-GLS55LD040M         - PATA Interface NAND Flash Memeory Controller
+-JM20330             - Serial ATA Bridge Chip
+-JMS539              - USB 3.0 to SATA II 3.0G Bridge
+-LAN7430             - PCIe to Gigabit Ethernet Controller
+-LAN7800             - USB 3.1 Gen 1 to 10/100/1000 Ethernet Controller
+-QCA8337             - 7 Port Gigabit Ethernet Switch
+-RK3588S             - 8 Core 64 bit Embedded CPU
+-TPD6S300            - USB Type-C Port Protection IC 
+-TPS65982            - USB Type-C and USB-PD Controller
+-USB7056             - 6-Port USB 3.2 Gen 1 Hub
+-VSC8572             - Dual Port 10/100/1000 Ethernet PHY
