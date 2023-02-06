@@ -2,10 +2,10 @@
 This is a collection of different hardware design resources I've accumulated. I've also made a bunch of symbols for different IC's for KICAD, but I have also included the excel and csv pinout files if you want to convert them to other platforms. I made these because I either couldn't find anything about them on either SnapEDA or Ultralibrarian or I just wanted to make them myself. This is an in-progress thing so I will be adding to it over time.
 
 # Disclaimer
-I do not own any of the materials in this package. 
-All of the resources in the package belong to their respective owners. 
-Any of the guides that are in the package are avalible online for free, I have just compiled them.
-If any of the owners of the content in this package want thier content removed, then they can email me using the email attached to my GitHub.
+I do not own any of the materials in this collection. 
+All of the resources in the collection belong to their respective owners. 
+Any of the guides that are in the collection are avalible online for free, I have just compiled them.
+If any of the owners of the content in this collection want thier content removed, then they can email me using the email attached to my GitHub.
 
 # Current Content
 Number of Symbols: **14** <br />
