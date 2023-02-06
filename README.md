@@ -45,4 +45,4 @@ Number of Documents:  **18**
 | USB | General | 6 |
 
 # Requests
-Let me know if there is any symbols that you want me to make!
+Let me know if there are any symbols that you want me to make!
