@@ -11,8 +11,8 @@ If any of the owners of the content in this package want thier content removed, 
 
 # Current Content
 ---
-Number of Symbols: 14 <br />
-Number of Guides: 
+Number of Symbols: **14** <br />
+Number of Guides:  **IDK**
 
 ### IC Symbols:
 | Name              | Description                           | Company     |
@@ -31,3 +31,13 @@ Number of Guides:
 | TPD6S300          | USB Type-C and USB-PD Controller      | TI          |
 | USB7056           | 6-Port USB 3.2 Gen 1 Hub              | Microchip   |
 | VSC8572           | Dual Port 10/100/1000 Ethernet PHY    | Microsemi   |
+
+### Guides
+| Interface Type | Number |
+| :--- | :---: |
+| SATA | 0 |
+| PCIE | 0 |
+| HDMI | 0 |
+| EMMC | 0 |
+| SDRAM | 0 |
+| USB | 0 |
