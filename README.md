@@ -30,7 +30,7 @@ Number of Documents:  **18**
 | VSC8572           | Dual Port 10/100/1000 Ethernet PHY    | Microsemi   |
 
 ### Guides and Standards:
-| Interface Type | Type | Number |
+| Interface | Type | Number |
 | :--- | :---:| :---: |
 | DisplayPort | Video | 1 |
 | EMMC  | Memory | 1 |
