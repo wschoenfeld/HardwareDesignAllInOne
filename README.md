@@ -34,7 +34,6 @@ Number of Documents:  **18**
 | :--- | :---:| :---: |
 | EMMC  | Memory | 1 |
 | SDRAM DDR | Memory | 4 |
-| :--- | :---:| :---: |
 | DisplayPort | Video | 1 |
 | HDMI | Video | 1 |
 | PCIE | General | 1 |
