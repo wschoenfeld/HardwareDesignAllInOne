@@ -12,7 +12,7 @@ If any of the owners of the content in this package want thier content removed, 
 # Current Content
 ---
 Number of Symbols: **14** <br />
-Number of Guides:  **IDK**
+Number of Documents:  **18**
 
 ### IC Symbols:
 | Name              | Description                           | Company     |
@@ -32,12 +32,14 @@ Number of Guides:  **IDK**
 | USB7056           | 6-Port USB 3.2 Gen 1 Hub              | Microchip   |
 | VSC8572           | Dual Port 10/100/1000 Ethernet PHY    | Microsemi   |
 
-### Guides
-| Interface Type | Number |
-| :--- | :---: |
-| SATA | 0 |
-| PCIE | 0 |
-| HDMI | 0 |
-| EMMC | 0 |
-| SDRAM | 0 |
-| USB | 0 |
+### Guides and Standards
+| Interface Type | Type | Number |
+| :--- | :---:| :---: |
+| DisplayPort | Video | 1 |
+| EMMC  | Memory | 1 |
+| HDMI | Video | 1 |
+| PCIE | General | 1 |
+| SATA | General | 3 |
+| SDRAM DDR | Memory | 4 |
+| SPI | General | 1  |
+| USB | General | 6 |
