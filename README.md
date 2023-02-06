@@ -12,22 +12,22 @@ Number of Symbols: **14** <br />
 Number of Documents:  **18**
 
 ### IC Symbols:
-| Name              | IC Type | Description                           | Company     |
+| Name              | Type | Description                           | Company     |
 | :---------------- | :---: | :------------------------------------ | :---------- |
-| 88E1545           | Ethernet Controller | 10/100/1000 Mbps Ethernet Transceiver | Marvell     |
+| 88E1545           | Ethernet | 10/100/1000 Mbps Ethernet Transceiver | Marvell     |
 | Intel Atom C2000  | CPU | 64 bit Server CPU                     | Intel       |
-| CYUSB302          | Memory Controller | USB to SDIO/SD/MMC Controller         | Infineon    |
-| GLS55LD040M       | Memory Controller | PATA NAND Memeory Controller          | Greenliant  |
-| JM20330           | Bridge | Serial ATA Bridge Chip                | JMicron     |
-| JMS539            | Bridge | USB 3.0 to SATA II 3.0G Bridge        | JMicron     |
-| LAN7430           | Ethernet Controller | PCIe to Gigabit Ethernet Controller   | TI          |
-| LAN7800           | Ethernet Controller | USB 3.1 Gen 1 Ethernet Controller     | TI          |
-| QCA8337           | Ethernet Switch | 7 Port Gigabit Ethernet Switch        | Qualcom     |
+| CYUSB302          | Memory | USB to SDIO/SD/MMC Controller         | Infineon    |
+| GLS55LD040M       | Memory | PATA NAND Memeory Controller          | Greenliant  |
+| JM20330           | SATA | Serial ATA Bridge Chip                | JMicron     |
+| JMS539            | SATA | USB 3.0 to SATA II 3.0G Bridge        | JMicron     |
+| LAN7430           | Ethernet | PCIe to Gigabit Ethernet Controller   | TI          |
+| LAN7800           | Ethernet | USB 3.1 Gen 1 Ethernet Controller     | TI          |
+| QCA8337           | Ethernet | 7 Port Gigabit Ethernet Switch        | Qualcom     |
 | RK3588S           | CPU | 8 Core 64 bit Embedded CPU            | Rockchip    |
-| TPD6S300          | USB Power | USB Type-C Port Protection IC         | TI          |
-| TPD6S300          | USB Power | USB Type-C and USB-PD Controller      | TI          |
-| USB7056           | USB Hub | 6-Port USB 3.2 Gen 1 Hub              | Microchip   |
-| VSC8572           | Ethernet PHY | Dual Port 10/100/1000 Ethernet PHY    | Microsemi   |
+| TPD6S300          | USB | USB Type-C Port Protection IC         | TI          |
+| TPD6S300          | USB | USB Type-C and USB-PD Controller      | TI          |
+| USB7056           | USB | 6-Port USB 3.2 Gen 1 Hub              | Microchip   |
+| VSC8572           | Ethernet | Dual Port 10/100/1000 Ethernet PHY    | Microsemi   |
 
 ### Guides and Standards:
 | Interface | Type | Number |
