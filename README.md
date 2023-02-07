@@ -8,7 +8,7 @@ Any of the guides that are in the collection are avalible online for free, I hav
 If any of the owners of the content in this collection want thier content removed, they can email me using the email attached to my GitHub.
 
 # Current Content
-Number of Symbols: **16** <br />
+Number of Symbols: **17** <br />
 Number of Documents:  **18**
 
 ### IC Symbols:
@@ -23,6 +23,7 @@ Number of Documents:  **18**
 | VSC8572           | Ethernet | Dual Port 10/100/1000 Ethernet PHY    | Microsemi   |
 | CYUSB302          | Memory | USB to SDIO/SD/MMC Controller         | Infineon    |
 | GLS55LD040M       | Memory | PATA NAND Memeory Controller          | Greenliant  |
+| Z360 | General | Intel 300 Series Motherboard Controller | Intel |
 | JMS583           | PCIE | USB 3.1 to PCIE Bridge Chip                | JMicron     |
 | GL830       | SATA | USB 2.0 to SATA Bridge           | Genesys  |
 | JM20330           | SATA | Serial ATA Bridge Chip                | JMicron     |
