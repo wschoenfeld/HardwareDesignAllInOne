@@ -8,14 +8,15 @@ Any of the guides that are in the collection are avalible online for free, I hav
 If any of the owners of the content in this collection want thier content removed, they can email me using the email attached to my GitHub.
 
 # Current Content
-Number of Symbols: **17** <br />
+Number of Symbols: **18** <br />
 Number of Documents:  **18**
 
 ### IC Symbols:
 | Name              | Type | Description                           | Company     |
 | :---------------- | :---: | :------------------------------------ | :---------- |
-| Intel Atom C2000  | CPU | 64 bit Server CPU                     | Intel       |
-| RK3588S           | CPU | 8 Core 64 bit Embedded CPU            | Rockchip    |
+| Intel Atom C2000  | CPU/MPU | 64 bit Server CPU                     | Intel       |
+| RK3588S           | CPU/MPU | 8 Core 64 bit Embedded CPU            | Rockchip    |
+| R9A07G043F00      | CPU/MPU | Single Core 64 bit RISC-V Microprocessor| Renesas    |
 | 88E1545           | Ethernet | 10/100/1000 Mbps Ethernet Transceiver | Marvell     |
 | LAN7430           | Ethernet | PCIe to Gigabit Ethernet Controller   | TI          |
 | LAN7800           | Ethernet | USB 3.1 Gen 1 Ethernet Controller     | TI          |
