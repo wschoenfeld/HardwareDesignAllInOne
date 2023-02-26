@@ -8,14 +8,15 @@ Any of the guides that are in the collection are avalible online for free, I hav
 If any of the owners of the content in this collection want thier content removed, they can email me using the email attached to my GitHub.
 
 # Current Content
-Number of Symbols: **20** <br />
+Number of Symbols: **21** <br />
 Number of Documents:  **18** <br />
-Current Collection Size: **298.5 MB**
+Current Collection Size: **310.4 MB**
 
 ### IC Symbols:
 | Name              | Type | Description                           | Company     |
 | :---------------- | :---: | :------------------------------------ | :---------- |
 | Intel Atom C2000  | CPU/MPU | 64 bit Server CPU                     | Intel       |
+| LGA-1151-2 | CPU/MPU | Intel's 8th and 9th Generation CPUs | Intel |
 | RK3588S           | CPU/MPU | 8 Core 64 bit Embedded CPU            | Rockchip    |
 | R9A07G043F00      | CPU/MPU | Single Core 64 bit RISC-V Microprocessor| Renesas    |
 | 88E1545           | Ethernet | 10/100/1000 Mbps Ethernet Transceiver | Marvell     |
