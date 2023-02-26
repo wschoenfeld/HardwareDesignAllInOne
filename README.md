@@ -8,7 +8,7 @@ Any of the guides that are in the collection are avalible online for free, I hav
 If any of the owners of the content in this collection want thier content removed, they can email me using the email attached to my GitHub.
 
 # Current Content
-Number of Symbols: **18** <br />
+Number of Symbols: **19** <br />
 Number of Documents:  **18**
 
 ### IC Symbols:
@@ -32,6 +32,7 @@ Number of Documents:  **18**
 | TPD6S300          | USB | USB Type-C Port Protection IC         | TI          |
 | TPS65982          | USB | USB Type-C and USB-PD Controller      | TI          |
 | USB7056           | USB | 6-Port USB 3.2 Gen 1 Hub              | Microchip   |
+| μPD720202         | USB | PCIE Gen 2 to USB 3.0 Bridge                | Renesas     |
 
 ### Guides and Standards:
 | Interface | Type | Number |
