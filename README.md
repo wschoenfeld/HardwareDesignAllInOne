@@ -8,9 +8,9 @@ Any of the guides that are in the collection are avalible online for free, I hav
 If any of the owners of the content in this collection want thier content removed, they can email me using the email attached to my GitHub.
 
 # Current Content
-Number of Symbols: **19** <br />
+Number of Symbols: **20** <br />
 Number of Documents:  **18** <br />
-Current Collection Size: **294.5 MB**
+Current Collection Size: **298.5 MB**
 
 ### IC Symbols:
 | Name              | Type | Description                           | Company     |
@@ -25,6 +25,7 @@ Current Collection Size: **294.5 MB**
 | VSC8572           | Ethernet | Dual Port 10/100/1000 Ethernet PHY    | Microsemi   |
 | Z390 | General | Intel 300 Series Motherboard Controller | Intel |
 | CYUSB302          | Memory | USB to SDIO/SD/MMC Controller         | Infineon    |
+| DDR4 DIMM   | Memory | DDR4 DIMM Memory Stick| N/A|
 | GLS55LD040M       | Memory | PATA NAND Memeory Controller          | Greenliant  |
 | JMS583           | PCIE | USB 3.1 to PCIE Bridge Chip                | JMicron     |
 | GL830       | SATA | USB 2.0 to SATA Bridge           | Genesys  |
