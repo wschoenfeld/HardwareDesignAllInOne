@@ -9,7 +9,8 @@ If any of the owners of the content in this collection want thier content remove
 
 # Current Content
 Number of Symbols: **19** <br />
-Number of Documents:  **18**
+Number of Documents:  **18** <br />
+Current Collection Size **294.5 MB**
 
 ### IC Symbols:
 | Name              | Type | Description                           | Company     |
