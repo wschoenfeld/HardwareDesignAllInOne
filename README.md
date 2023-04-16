@@ -10,15 +10,16 @@ If any of the owners of the content in this collection want thier content remove
 The information in this collection is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the information or the use or other dealings in the information.
 
 # Current Content
-Number of Symbols: **21** <br />
+Number of Symbols: **22** <br />
 Number of Documents:  **18** <br />
-Current Collection Size: **310.4 MB**
+Current Collection Size: **322.8 MB**
 
 ### IC Symbols:
 | Name              | Type | Description                           | Company     |
 | :---------------- | :---: | :------------------------------------ | :---------- |
 | Intel Atom C2000  | CPU/MPU | 64 bit Server CPU                     | Intel       |
 | LGA-1151-2 | CPU/MPU | Intel's 8th and 9th Generation CPUs | Intel |
+| LGA-2011 | CPU/MPU | Intel's Xeon E5 Server CPUs | Intel |
 | RK3588S           | CPU/MPU | 8 Core 64 bit Embedded CPU            | Rockchip    |
 | R9A07G043F00      | CPU/MPU | Single Core 64 bit RISC-V Microprocessor| Renesas    |
 | 88E1545           | Ethernet | 10/100/1000 Mbps Ethernet Transceiver | Marvell     |
