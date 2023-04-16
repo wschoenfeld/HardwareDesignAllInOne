@@ -53,4 +53,4 @@ Current Collection Size: **322.8 MB**
 | USB | General | 6 |
 
 # Requests
-Let me know if there are any symbols that you want me to make!
+Let me know if there are any symbols that you want me to make! I've made a section in the discussions tab for suggestions.
