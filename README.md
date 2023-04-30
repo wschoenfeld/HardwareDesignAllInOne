@@ -16,11 +16,13 @@ Number of Documents:  **18** <br />
 ### IC Symbols:
 | Name              | Type | Description                           | Company     |
 | :---------------- | :---: | :------------------------------------ | :---------- |
-| Intel Atom C2000  | CPU/MPU | 64 bit Server CPU                     | Intel       |
-| LGA-1151-2 | CPU/MPU | Intel's 8th and 9th Generation CPUs | Intel |
-| LGA-2011 | CPU/MPU | Intel's Xeon E5 Server CPUs | Intel |
-| Intel Atom C2000  | CPU/MPU | 64 bit Server CPU                     | Intel       |
-| R9A07G043F00      | CPU/MPU | Single Core 64 bit RISC-V Microprocessor| Renesas    |
+| A311D2           | CPU/SOC | 8 Core 64 bit SoC at 2.2GHz/2.0GHz           | Amlogic    |
+| Intel Atom C2000  | CPU/SOC | 64 bit Server CPU                     | Intel       |
+| LGA-1151-2 | CPU/SOC | Intel's 8th and 9th Generation CPUs | Intel |
+| LGA-2011 | CPU/SOC | Intel's Xeon E5 Server CPUs | Intel |
+| Intel Atom C2000  | CPU/SOC | 64 bit Server CPU                     | Intel       |
+| R9A07G043F00      | CPU/SOC | Single Core 64 bit RISC-V Microprocessor| Renesas    |
+| RK3588S           | CPU/SOC | 8 Core 64 bit Embedded SoC            | Rockchip    |
 | 88E1545           | Ethernet | 10/100/1000 Mbps Ethernet Transceiver | Marvell     |
 | LAN7430           | Ethernet | PCIe to Gigabit Ethernet Controller   | TI          |
 | LAN7800           | Ethernet | USB 3.1 Gen 1 Ethernet Controller     | TI          |
@@ -31,8 +33,7 @@ Number of Documents:  **18** <br />
 | DDR4 DIMM   | Memory | DDR4 DIMM Memory Stick| N/A|
 | GLS55LD040M       | Memory | PATA NAND Memeory Controller          | Greenliant  |
 | JMS583           | PCIE | USB 3.1 to PCIE Bridge Chip                | JMicron     |
-| A311D2           | SoC | 8 Core 64 bit SoC at 2.2GHz/2.0GHz           | Amlogic    |
-| RK3588S           | SoC | 8 Core 64 bit Embedded SoC            | Rockchip    |
+
 | GL830       | SATA | USB 2.0 to SATA Bridge           | Genesys  |
 | JM20330           | SATA | Serial ATA Bridge Chip                | JMicron     |
 | JMS539            | SATA | USB 3.0 to SATA II 3.0G Bridge        | JMicron     |
