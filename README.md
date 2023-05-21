@@ -20,7 +20,6 @@ Number of Documents:  **18** <br />
 | Intel Atom C2000  | CPU/SoC | 64 bit Server CPU                     | Intel       |
 | LGA-1151-2 | CPU/SoC | Intel's 8th and 9th Generation CPUs | Intel |
 | LGA-2011 | CPU/SoC | Intel's Xeon E5 Server CPUs | Intel |
-| Intel Atom C2000  | CPU/SoC | 64 bit Server CPU                     | Intel       |
 | R9A07G043F00      | CPU/SoC | Single Core 64 bit RISC-V Microprocessor| Renesas    |
 | RK3588S           | CPU/SoC | 8 Core 64 bit Embedded SoC            | Rockchip    |
 | 88E1545           | Ethernet | 10/100/1000 Mbps Ethernet Transceiver | Marvell     |
