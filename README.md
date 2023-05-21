@@ -28,11 +28,11 @@ Number of Documents:  **18** <br />
 | LAN7800           | Ethernet | USB 3.1 Gen 1 Ethernet Controller     | TI          |
 | QCA8337           | Ethernet | 7 Port Gigabit Ethernet Switch        | Qualcom     |
 | VSC8572           | Ethernet | Dual Port 10/100/1000 Ethernet PHY    | Microsemi   |
-| Z390 | PCH | Intel 300 Series Motherboard Controller | Intel |
 | CYUSB302          | Memory | USB to SDIO/SD/MMC Controller         | Infineon    |
 | DDR4 DIMM   | Memory | DDR4 DIMM Memory Stick| N/A|
 | GL3233       | Memory | USB 3.0 to SDMMC or EMMC Controlller         | Genesys Logic|
 | GLS55LD040M       | Memory | PATA NAND Memeory Controller          | Greenliant  |
+| Z390 | PCH | Intel 300 Series Motherboard Controller | Intel |
 | JMS583           | PCIE | USB 3.1 to PCIE Bridge Chip                | JMicron     |
 | GL830       | SATA | USB 2.0 to SATA Bridge           | Genesys  |
 | JM20330           | SATA | Serial ATA Bridge Chip                | JMicron     |
