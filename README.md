@@ -10,7 +10,7 @@ If any of the owners of the content in this collection want thier content remove
 The information in this collection is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the information or the use or other dealings in the information.
 
 # Current Content
-Number of Symbols: **23** <br />
+Number of Symbols: **24** <br />
 Number of Documents:  **18** <br />
 
 ### IC Symbols:
@@ -28,7 +28,7 @@ Number of Documents:  **18** <br />
 | LAN7800           | Ethernet | USB 3.1 Gen 1 Ethernet Controller     | TI          |
 | QCA8337           | Ethernet | 7 Port Gigabit Ethernet Switch        | Qualcom     |
 | VSC8572           | Ethernet | Dual Port 10/100/1000 Ethernet PHY    | Microsemi   |
-| Z390 | General | Intel 300 Series Motherboard Controller | Intel |
+| Z390 | PCH | Intel 300 Series Motherboard Controller | Intel |
 | CYUSB302          | Memory | USB to SDIO/SD/MMC Controller         | Infineon    |
 | DDR4 DIMM   | Memory | DDR4 DIMM Memory Stick| N/A|
 | GL3233       | Memory | USB 3.0 to SDMMC or EMMC Controlller         | Genesys Logic|
