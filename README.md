@@ -31,6 +31,7 @@ Number of Documents:  **18** <br />
 | Z390 | General | Intel 300 Series Motherboard Controller | Intel |
 | CYUSB302          | Memory | USB to SDIO/SD/MMC Controller         | Infineon    |
 | DDR4 DIMM   | Memory | DDR4 DIMM Memory Stick| N/A|
+| GL3233       | Memory | USB 3.0 to SDMMC or EMMC Controlller         | Genesys Logic|
 | GLS55LD040M       | Memory | PATA NAND Memeory Controller          | Greenliant  |
 | JMS583           | PCIE | USB 3.1 to PCIE Bridge Chip                | JMicron     |
 | GL830       | SATA | USB 2.0 to SATA Bridge           | Genesys  |
