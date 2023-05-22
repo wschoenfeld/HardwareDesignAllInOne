@@ -23,8 +23,8 @@ Number of Documents:  **18** <br />
 | R9A07G043F00      | CPU/SoC | Single Core 64 bit RISC-V Microprocessor| Renesas    |
 | RK3588S           | CPU/SoC | 8 Core 64 bit Embedded SoC            | Rockchip    |
 | 88E1545           | Ethernet | 10/100/1000 Mbps Ethernet Transceiver | Marvell     |
-| LAN7430           | Ethernet | PCIe to Gigabit Ethernet Controller   | TI          |
-| LAN7800           | Ethernet | USB 3.1 Gen 1 Ethernet Controller     | TI          |
+| LAN7430           | Ethernet | PCIe to Gigabit Ethernet Controller   | Microchip          |
+| LAN7800           | Ethernet | USB 3.1 Gen 1 Ethernet Controller     | Microchip          |
 | QCA8337           | Ethernet | 7 Port Gigabit Ethernet Switch        | Qualcom     |
 | VSC8572           | Ethernet | Dual Port 10/100/1000 Ethernet PHY    | Microsemi   |
 | CYUSB302          | Memory | USB to SDIO/SD/MMC Controller         | Infineon    |
