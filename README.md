@@ -5,7 +5,7 @@ This is a collection of different hardware design resources I've accumulated. I'
 I do not own any of the materials in this collection. 
 All of the resources in the collection belong to their respective owners. 
 Any of the guides that are in the collection are avalible online for free, I have just compiled them.
-If any of the owners of the content in this collection want thier content removed, they can email me using the email attached to my GitHub.<br />
+If any of the owners of the content in this collection want their content removed, they can email me using the email attached to my GitHub.<br />
 <br />
 The information in this collection is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the information or the use or other dealings in the information.
 
