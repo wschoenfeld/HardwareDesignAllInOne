@@ -25,11 +25,11 @@ Number of Documents:  **18** <br />
 | 88E1545           | Ethernet | 10/100/1000 Mbps Ethernet Transceiver | Marvell     |
 | LAN7430           | Ethernet | PCIe to Gigabit Ethernet Controller   | Microchip          |
 | LAN7800           | Ethernet | USB 3.1 Gen 1 Ethernet Controller     | Microchip          |
-| QCA8337           | Ethernet | 7 Port Gigabit Ethernet Switch        | Qualcom     |
+| QCA8337           | Ethernet | 7 Port Gigabit Ethernet Switch        | Qualcomm     |
 | VSC8572           | Ethernet | Dual Port 10/100/1000 Ethernet PHY    | Microsemi   |
 | CYUSB302          | Memory | USB to SDIO/SD/MMC Controller         | Infineon    |
 | DDR4 DIMM   | Memory | DDR4 DIMM Memory Stick| N/A|
-| GL3233       | Memory | USB 3.0 to SDMMC or EMMC Controlller         | Genesys Logic|
+| GL3233       | Memory | USB 3.0 to SDMMC or EMMC Controlller         | Genesys |
 | GLS55LD040M       | Memory | PATA NAND Memeory Controller          | Greenliant  |
 | Z390 | PCH | Intel 300 Series Motherboard Controller | Intel |
 | JMS583           | PCIE | USB 3.1 to PCIE Bridge Chip                | JMicron     |
