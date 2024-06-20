@@ -11,7 +11,7 @@ The information in this collection is provided "as is", without warranty of any 
 
 # Current Content
 Number of Symbols: **24** <br />
-Number of Documents:  **18** <br />
+Number of Documents:  **21** <br />
 
 ### IC Symbols:
 | Name              | Type | Description                           | Company     |
