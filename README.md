@@ -44,7 +44,7 @@ Number of Documents:  **21** <br />
 ### Guides and Standards:
 | Interface | Type | Number |
 | :--- | :---:| :---: |
-| EMMC  | Memory | 1 |
+| EMMC  | Memory | 4 |
 | SDRAM DDR | Memory | 4 |
 | DisplayPort | Video | 1 |
 | HDMI | Video | 1 |
